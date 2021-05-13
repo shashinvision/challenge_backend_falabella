@@ -1,5 +1,7 @@
 Resultado por pantalla:
 
+<print>
+<code>
 Array
 (
     [0] => 1
@@ -103,3 +105,5 @@ Array
     [98] => Falabella
     [99] => IT
 )
+</code>
+</print>
